@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rahul</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FRustamxon7%2Frustamxon7&psig=AOvVaw2F2SjezNw0IEbPERpYm0Qv&ust=1698898653282000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPDes-v4oYIDFQAAAAAdAAAAABAK"
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif"
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulkirtoniya&label=Profile%20views&color=0e75b6&style=flat" alt="rahulkirtoniya" /> </p>
