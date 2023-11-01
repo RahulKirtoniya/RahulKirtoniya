@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rahul</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/42/36/d0/4236d00b6df31c5c1dab3566fa61ff3c.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulkirtoniya&label=Profile%20views&color=0e75b6&style=flat" alt="rahulkirtoniya" /> </p>
