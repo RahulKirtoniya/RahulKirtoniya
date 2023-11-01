@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rahul</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="[https://giphy.com/explore/designer-vs-developer](https://giphy.com/gifs/vs-designer-developer-9LQHvkbIzTSLe)"
-
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulkirtoniya&label=Profile%20views&color=0e75b6&style=flat" alt="rahulkirtoniya" /> </p>
 
