@@ -1,4 +1,4 @@
-#Curious to Learn. Build. Improve. Repeat.
+Curious to Learn. Build. Improve. Repeat.
 
 
 ---
