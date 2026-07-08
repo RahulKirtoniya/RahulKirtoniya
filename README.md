@@ -1,10 +1,5 @@
-# Hi, I'm Rahul Kirtoniya 👋
+Curious to Learn. Build. Improve. Repeat.
 
-**IT Systems Developer | AI Engineer | Business Automation Specialist | End-to-End IT Support**
-
-📍 Manama, Bahrain
-
-I'm a dedicated IT professional who handles all technology needs for an organization, from building and managing internal systems to supporting staff in their daily work. I enjoy finding simple solutions that make things easier for the people around me. In my current role I reduced the team's manual workload by 40% by introducing automation that replaced time-consuming manual tasks.
 
 ---
 
