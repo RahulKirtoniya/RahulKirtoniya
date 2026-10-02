@@ -1,288 +1,456 @@
+```md
 <div align="center">
 
 # `Rahul Kirtoniya`
 
-### `Full Stack Engineer` · `Technical Lead` · `AI & Automation`
+### Full Stack Engineer · Technical Lead · AI & Automation
 
 ```text
-╭──────────────────────────────────────────────────────────────────────╮
-│                                                                      │
-│   ██████╗  █████╗ ██╗  ██╗██╗   ██╗██╗                             │
-│   ██╔══██╗██╔══██╗██║  ██║██║   ██║██║                             │
-│   ██████╔╝███████║███████║██║   ██║██║                             │
-│   ██╔══██╗██╔══██║██╔══██║██║   ██║██║                             │
-│   ██║  ██║██║  ██║██║  ██║╚██████╔╝██║                             │
-│   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝                             │
-│                                                                      │
-│                  BUILD  •  AUTOMATE  •  SCALE                        │
-│                                                                      │
-╰──────────────────────────────────────────────────────────────────────╯
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                      ║
+║                     R A H U L   K I R T O N I Y A                   ║
+║                                                                      ║
+║        FULL STACK  ×  AI  ×  AUTOMATION  ×  CLOUD  ×  SAAS          ║
+║                                                                      ║
+║                 BUILDING SYSTEMS THAT DO REAL WORK                   ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
 ```
 
-`AI Integration` · `Business Automation` · `SaaS` · `Cloud`
+<a href="https://rahul-kirtoniya.vercel.app/">Portfolio</a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="https://linkedin.com/in/rahulkirtoniya">LinkedIn</a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="mailto:rahulkirtoniya12@gmail.com">Email</a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="https://github.com/RahulKirtoniya">GitHub</a>
 
 </div>
 
 ---
 
-## `> whoami`
-
-```yaml
-name: Rahul Kirtoniya
-role: Full Stack Engineer
-title: Technical Lead
-location: Kolkata, India
-status: Building
-
-focus:
-  - AI Integration
-  - Business Automation
-  - SaaS Development
-  - Full Stack Engineering
-```
-
-> I build practical software that solves real business problems through engineering, automation and AI.
-
----
-
-## `> system.info`
+# `01` — WHO I AM
 
 ```text
 ┌─────────────────────────────────────────────────────────────────────┐
 │                                                                     │
-│  BACKEND       PHP · Laravel · Node.js · Python                    │
+│  Rahul Kirtoniya                                                    │
+│  Full Stack Engineer / Technical Lead                               │
 │                                                                     │
-│  FRONTEND      React · Next.js · JavaScript · TypeScript           │
+│  I design and build business applications, SaaS products,           │
+│  automation systems and AI-powered workflows.                       │
 │                                                                     │
-│  DATABASE      MySQL                                                │
+│  My work sits at the intersection of:                               │
 │                                                                     │
-│  CLOUD         AWS · EC2 · S3 · IAM                                │
-│                                                                     │
-│  AI            OpenAI · Claude · LLM · RAG                         │
-│                                                                     │
-│  DEVOPS        Git · GitHub Actions · CI/CD                        │
-│                                                                     │
-│  AUTOMATION    APIs · WhatsApp · Business Workflows                │
+│       SOFTWARE ENGINEERING                                          │
+│              +                                                      │
+│       ARTIFICIAL INTELLIGENCE                                       │
+│              +                                                      │
+│       BUSINESS AUTOMATION                                           │
+│              +                                                      │
+│       CLOUD & PRODUCT ENGINEERING                                   │
 │                                                                     │
 └─────────────────────────────────────────────────────────────────────┘
 ```
 
----
-
-## `> tech.stack`
-
-### Languages
-
-```text
-PHP          ████████████████████
-JavaScript   ████████████████████
-TypeScript   ██████████████████░░
-Python       ████████████████░░░░
-HTML         ████████████████████
-CSS          ███████████████████░
-```
-
-### Frameworks
-
-```text
-Laravel      ████████████████████
-React        ███████████████████░
-Next.js      █████████████████░░░
-Node.js      █████████████████░░░
-```
-
-### Infrastructure
-
-```text
-AWS          █████████████████░░░
-Git          ████████████████████
-CI/CD        ████████████████░░░░
-```
+I enjoy taking a business problem, turning it into a technical architecture and building the complete solution from backend to frontend, AI integration and deployment.
 
 ---
 
-## `> ai.engine`
+# `02` — WHAT I BUILD
 
 ```text
-╭─────────────────────────────────────────────────────────────╮
+                    ┌────────────────────────┐
+                    │      BUSINESS IDEA     │
+                    └────────────┬───────────┘
+                                 │
+                                 ▼
+                    ┌────────────────────────┐
+                    │   PRODUCT ARCHITECTURE  │
+                    └────────────┬───────────┘
+                                 │
+               ┌─────────────────┼─────────────────┐
+               ▼                 ▼                 ▼
+        ┌─────────────┐   ┌─────────────┐   ┌─────────────┐
+        │   BACKEND   │   │   FRONTEND  │   │     AI      │
+        │   APIs      │   │   React     │   │   LLM/RAG   │
+        │   Laravel   │   │   Next.js   │   │  Automation │
+        └──────┬──────┘   └──────┬──────┘   └──────┬──────┘
+               │                 │                 │
+               └─────────────────┼─────────────────┘
+                                 ▼
+                    ┌────────────────────────┐
+                    │     CLOUD / CI-CD      │
+                    └────────────┬───────────┘
+                                 │
+                                 ▼
+                    ┌────────────────────────┐
+                    │    PRODUCTION SYSTEM   │
+                    └────────────────────────┘
+```
+
+### Core Areas
+
+| Area | Focus |
+|---|---|
+| `Full Stack` | End-to-end web application development |
+| `AI Engineering` | OpenAI, Claude, LLM, RAG and AI workflows |
+| `Automation` | Business process and workflow automation |
+| `SaaS` | Product architecture and scalable platforms |
+| `Backend` | APIs, business logic, databases and integrations |
+| `Frontend` | React, Next.js, JavaScript and TypeScript |
+| `Cloud` | AWS, deployment and infrastructure |
+| `DevOps` | Git, CI/CD and production deployment |
+
+---
+
+# `03` — TECHNICAL STACK
+
+### `Backend`
+
+```text
+PHP
+Laravel
+Node.js
+Python
+REST APIs
+MySQL
+```
+
+### `Frontend`
+
+```text
+React
+Next.js
+JavaScript
+TypeScript
+HTML
+CSS
+```
+
+### `AI / Automation`
+
+```text
+OpenAI API
+Claude API
+LLM
+RAG
+Prompt Engineering
+AI Agents
+WhatsApp APIs
+Workflow Automation
+```
+
+### `Cloud / DevOps`
+
+```text
+AWS
+EC2
+S3
+IAM
+Git
+GitHub Actions
+CI/CD
+Netlify
+Vercel
+```
+
+---
+
+# `04` — ENGINEERING PROFILE
+
+```text
+┌───────────────────────────────────────────────────────────────────┐
+│                                                                   │
+│  FULL STACK ENGINEERING                                           │
+│  ██████████████████████████████████████████████████              │
+│                                                                   │
+│  AI INTEGRATION                                                   │
+│  ███████████████████████████████████████████████░                │
+│                                                                   │
+│  BUSINESS AUTOMATION                                              │
+│  ██████████████████████████████████████████████████              │
+│                                                                   │
+│  API & SYSTEM INTEGRATION                                         │
+│  ████████████████████████████████████████████████░               │
+│                                                                   │
+│  CLOUD & DEPLOYMENT                                               │
+│  ███████████████████████████████████████████░░░░░                │
+│                                                                   │
+│  PRODUCT ENGINEERING                                              │
+│  ██████████████████████████████████████████████████              │
+│                                                                   │
+└───────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+# `05` — SELECTED PROJECTS
+
+## `01` Expat Management System
+
+Enterprise management platform for handling large-scale client records and operational workflows.
+
+```text
+┌─────────────────────────────────────────────────────────────┐
 │                                                             │
-│  ┌─────────────┐       ┌──────────────┐                    │
-│  │   BUSINESS  │ ────► │ AI WORKFLOW  │                    │
-│  └─────────────┘       └──────┬───────┘                    │
-│                               │                             │
-│                    ┌──────────▼──────────┐                  │
-│                    │      LLM / RAG      │                  │
-│                    └──────────┬──────────┘                  │
-│                               │                             │
-│              ┌────────────────┼────────────────┐            │
-│              ▼                ▼                ▼            │
-│         AUTOMATION        INSIGHTS          ACTIONS         │
+│  CLIENT MANAGEMENT                                          │
+│  ├── Single-ID client records                               │
+│  ├── Bulk uploads & exports                                 │
+│  ├── Advanced filtering                                     │
+│  ├── Task management                                        │
+│  ├── Real-time workflow visibility                          │
+│  ├── AI suggestions                                         │
+│  └── Automated categorization                               │
 │                                                             │
-╰─────────────────────────────────────────────────────────────╯
+│  STACK                                                       │
+│  PHP · MySQL · JavaScript · AWS · AI                        │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## `02` WhatsApp Marketing Automation
+
+A business communication and marketing automation platform built around WhatsApp.
+
+```text
+CUSTOMER DATA
+      │
+      ▼
+SEGMENTATION
+      │
+      ▼
+CAMPAIGN ENGINE
+      │
+      ▼
+WHATSAPP
+      │
+      ├── Delivered
+      ├── Read
+      ├── Replied
+      │
+      ▼
+AI CLASSIFICATION
+      │
+      ▼
+BUSINESS ACTION
+```
+
+**Capabilities**
+
+- Customer segmentation
+- Bulk campaigns
+- Message tracking
+- Read and reply tracking
+- Automated classification
+- Two-way communication
+- Marketing automation
+
+---
+
+## `03` Government & Compliance Systems
+
+Built systems for complex administrative and compliance workflows.
+
+```text
+REGISTRATION
+     ↓
+IMMIGRATION
+     ↓
+CR / BUSINESS SERVICES
+     ↓
+CPR / PASSPORT TRACKING
+     ↓
+WORK PERMITS
+     ↓
+DOCUMENT CLEARANCE
+     ↓
+COMPLIANCE
+```
+
+---
+
+## `04` AI Business Automation
+
+Building systems where AI is integrated directly into business workflows.
+
+```text
+BUSINESS DATA
+      │
+      ▼
+┌───────────────────┐
+│   AI PROCESSING   │
+│                   │
+│ LLM               │
+│ RAG               │
+│ Classification    │
+│ Recommendations   │
+└─────────┬─────────┘
+          │
+          ▼
+AUTOMATED ACTION
+          │
+          ▼
+MEASURABLE RESULT
+```
+
+---
+
+# `06` — HOW I THINK ABOUT SYSTEMS
+
+```text
+┌───────────────┐
+│   PROBLEM     │
+└───────┬───────┘
+        │
+        ▼
+┌───────────────┐
+│ REQUIREMENTS   │
+└───────┬───────┘
+        │
+        ▼
+┌───────────────┐
+│ ARCHITECTURE   │
+└───────┬───────┘
+        │
+        ▼
+┌───────────────┐
+│ DEVELOPMENT    │
+└───────┬───────┘
+        │
+        ▼
+┌───────────────┐
+│ AI / AUTOMATE  │
+└───────┬───────┘
+        │
+        ▼
+┌───────────────┐
+│ DEPLOYMENT     │
+└───────┬───────┘
+        │
+        ▼
+┌───────────────┐
+│ MONITOR /      │
+│ IMPROVE        │
+└───────────────┘
+```
+
+---
+
+# `07` — WHAT I BRING TO A TEAM
+
+```text
+✓ End-to-end product development
+
+✓ Backend + frontend ownership
+
+✓ AI integration into real products
+
+✓ Business workflow automation
+
+✓ API and third-party integrations
+
+✓ Database and system design
+
+✓ Cloud deployment
+
+✓ CI/CD implementation
+
+✓ Technical problem solving
+
+✓ Product-focused engineering
+```
+
+---
+
+# `08` — AI ENGINEERING
+
+```text
+             ┌───────────────┐
+             │ BUSINESS DATA │
+             └───────┬───────┘
+                     │
+                     ▼
+             ┌───────────────┐
+             │ DATA / CONTEXT│
+             └───────┬───────┘
+                     │
+                     ▼
+          ┌──────────────────────┐
+          │       LLM LAYER      │
+          │                      │
+          │ OpenAI · Claude      │
+          └──────────┬───────────┘
+                     │
+                     ▼
+             ┌───────────────┐
+             │ RAG / LOGIC   │
+             └───────┬───────┘
+                     │
+                     ▼
+             ┌───────────────┐
+             │ AI DECISION   │
+             └───────┬───────┘
+                     │
+                     ▼
+             ┌───────────────┐
+             │ AUTOMATED ACT │
+             └───────────────┘
 ```
 
 ### AI Focus
 
-```text
-OpenAI GPT API
-Claude API
-Large Language Models
-Retrieval-Augmented Generation
-Prompt Engineering
-AI Agents
-Intelligent Classification
-AI Recommendations
-Business Process Automation
-```
+`LLM` · `RAG` · `AI Agents` · `Prompt Engineering` · `OpenAI` · `Claude` · `AI Automation`
 
 ---
 
-## `> projects`
-
-### `01` Expat Management System
-
-Enterprise management platform designed for large-scale client records and operational workflows.
-
-```text
-FEATURES
-├── Client Management
-├── Bulk Upload & Export
-├── Advanced Filtering
-├── Staff Task Management
-├── Real-time Workflow Visibility
-├── AI Suggestions
-└── Automated Categorization
-
-STACK
-PHP · MySQL · JavaScript · AWS · AI
-```
-
-### `02` WhatsApp Marketing Automation
-
-WhatsApp-first automation platform for customer communication and marketing operations.
-
-```text
-FEATURES
-├── Customer Segmentation
-├── Bulk Campaigns
-├── Message Delivery Tracking
-├── Read & Reply Tracking
-├── Automated Classification
-├── Marketing Automation
-└── Two-way Communication
-
-STACK
-Laravel · PHP · JavaScript · MySQL · WhatsApp API
-```
-
-### `03` Government & Compliance Systems
-
-Systems designed to manage complex government and compliance workflows.
-
-```text
-MODULES
-├── Registration Tracking
-├── Immigration Services
-├── CR Renewals
-├── CPR Renewals
-├── Passport Expiry
-├── Work Permits
-├── Document Clearance
-└── Compliance Tracking
-
-STACK
-PHP · Laravel · MySQL · JavaScript
-```
-
-### `04` AI Business Automation
-
-AI-powered systems designed to reduce repetitive manual operations.
-
-```text
-CAPABILITIES
-├── AI Integrations
-├── LLM Applications
-├── RAG Systems
-├── AI Recommendations
-├── Intelligent Classification
-├── Workflow Automation
-├── Lead Generation
-└── SaaS Automation
-
-STACK
-OpenAI · Claude · LLM · RAG · Laravel · React · Python
-```
-
----
-
-## `> architecture`
-
-```text
-                         ┌──────────────────┐
-                         │      USERS       │
-                         └────────┬─────────┘
-                                  │
-                                  ▼
-                       ┌────────────────────┐
-                       │    WEB / MOBILE    │
-                       └─────────┬──────────┘
-                                 │
-                                 ▼
-                       ┌────────────────────┐
-                       │    API / BACKEND   │
-                       │ Laravel · Node.js  │
-                       └─────────┬──────────┘
-                                 │
-              ┌──────────────────┼──────────────────┐
-              ▼                  ▼                  ▼
-        ┌───────────┐      ┌───────────┐      ┌───────────┐
-        │   MySQL   │      │    AWS    │      │    AI     │
-        │  Database │      │   Cloud   │      │ LLM / RAG │
-        └───────────┘      └───────────┘      └─────┬─────┘
-                                                    │
-                                                    ▼
-                                           ┌────────────────┐
-                                           │  AUTOMATION    │
-                                           └────────────────┘
-```
-
----
-
-## `> current.focus`
+# `09` — CURRENTLY BUILDING
 
 ```bash
-$ ./rahul --current-focus
+$ ./rahul --focus
 
-[01] Building AI-powered SaaS products
-[02] Developing business automation systems
-[03] Exploring LLM & RAG architectures
-[04] Building AI agents
-[05] Developing scalable web applications
-[06] Cloud architecture & AWS
-[07] CI/CD & deployment automation
-[08] Product engineering
+[ACTIVE]
+
+01  AI-powered SaaS
+02  Business automation
+03  AI agents
+04  LLM applications
+05  RAG systems
+06  Full stack products
+07  Cloud infrastructure
+08  Product engineering
 ```
 
 ---
 
-## `> development.philosophy`
+# `10` — GITHUB ACTIVITY
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RahulKirtoniya&theme=github-dark&hide_border=true&area=true&custom_title=Rahul%20Kirtoniya%20-%20Contribution%20Activity" alt="Rahul Kirtoniya Contribution Activity">
+
+</div>
+
+### `> contribution.snapshot`
 
 ```text
-┌──────────────────────────────────────────────────────────┐
-│                                                          │
-│  01  Understand the problem                              │
-│  02  Design the simplest scalable solution               │
-│  03  Automate what should be automated                   │
-│  04  Build for real users                                │
-│  05  Measure the result                                  │
-│  06  Improve continuously                                │
-│                                                          │
-└──────────────────────────────────────────────────────────┘
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│              400+ CONTRIBUTIONS / LAST YEAR                 │
+│                                                             │
+│              40+ REPOSITORIES CONTRIBUTED TO                │
+│                                                             │
+│              93% PULL REQUESTS                               │
+│               7% CODE REVIEWS                               │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## `> github.stats`
+# `11` — GITHUB STATS
 
 <div align="center">
 
@@ -294,7 +462,7 @@ $ ./rahul --current-focus
 
 ---
 
-## `> contribution.matrix`
+# `12` — CONTRIBUTION STREAK
 
 <div align="center">
 
@@ -304,57 +472,97 @@ $ ./rahul --current-focus
 
 ---
 
-## `> activity`
+# `13` — DEVELOPMENT PRINCIPLES
+
+```text
+01  Understand the business problem first.
+
+02  Build simple systems before complex systems.
+
+03  Automate repetitive work.
+
+04  Keep architecture maintainable.
+
+05  Treat AI as a product capability, not a buzzword.
+
+06  Build for real users.
+
+07  Measure outcomes.
+
+08  Keep learning.
+```
+
+---
+
+# `14` — OPEN TO
+
+```text
+FULL STACK ENGINEER
+TECHNICAL LEAD
+AI ENGINEER
+AI INTEGRATION ENGINEER
+SOFTWARE ENGINEER
+PRODUCT ENGINEER
+AUTOMATION ENGINEER
+```
+
+### Interested in teams building
+
+```text
+AI Products
+SaaS Platforms
+Business Applications
+Automation Systems
+Developer Tools
+Enterprise Software
+Technology Products
+```
+
+---
+
+# `15` — LET'S CONNECT
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RahulKirtoniya&theme=github-dark&hide_border=true&area=true&custom_title=Rahul%20Kirtoniya%20-%20Contribution%20Activity" alt="Rahul Kirtoniya Contribution Activity">
+### Building something interesting?
+
+**Let's talk.**
+
+<br>
+
+<a href="https://rahul-kirtoniya.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white">
+</a>
+
+<a href="https://linkedin.com/in/rahulkirtoniya">
+<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://github.com/RahulKirtoniya">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="mailto:rahulkirtoniya12@gmail.com">
+<img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 
 </div>
 
 ---
 
-## `> currently.learning`
-
-```text
-AI Agents
-LLM Architecture
-RAG Systems
-Advanced Automation
-System Architecture
-Cloud Engineering
-SaaS Architecture
-Product Engineering
-```
-
----
-
-## `> contact`
-
-```text
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│  PORTFOLIO   →   https://rahul-kirtoniya.vercel.app/       │
-│                                                             │
-│  LINKEDIN   →   https://linkedin.com/in/rahulkirtoniya     │
-│                                                             │
-│  GITHUB     →   https://github.com/RahulKirtoniya          │
-│                                                             │
-│  EMAIL      →   rahulkirtoniya12@gmail.com                 │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
-
----
-
 <div align="center">
 
 ```text
-$ echo "Thanks for visiting."
-
-BUILD  →  AUTOMATE  →  SCALE
+╔═══════════════════════════════════════════════════════════╗
+║                                                           ║
+║             BUILD  →  AUTOMATE  →  SCALE                 ║
+║                                                           ║
+║        SOFTWARE IS THE TOOL.  IMPACT IS THE GOAL.        ║
+║                                                           ║
+╚═══════════════════════════════════════════════════════════╝
 ```
 
-### `Made with code, curiosity and a lot of debugging.`
+**Rahul Kirtoniya · Full Stack Engineer · Technical Lead**
 
 </div>
+```
