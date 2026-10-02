@@ -4,7 +4,7 @@
 
 ### `Full Stack Engineer` · `Technical Lead` · `AI & Automation`
 
-```text
+~~~text
 ╭──────────────────────────────────────────────────────────────────────╮
 │                                                                      │
 │   ██████╗  █████╗ ██╗  ██╗██╗   ██╗██╗                             │
@@ -17,10 +17,17 @@
 │                  BUILD  •  AUTOMATE  •  SCALE                        │
 │                                                                      │
 ╰──────────────────────────────────────────────────────────────────────╯
-AI Integration · Business Automation · SaaS · Cloud
+~~~
+
+`AI Integration` · `Business Automation` · `SaaS` · `Cloud`
+
 </div>
 
-> whoami
+---
+
+## `> whoami`
+
+~~~yaml
 name: Rahul Kirtoniya
 role: Full Stack Engineer
 title: Technical Lead
@@ -31,8 +38,15 @@ focus:
   - Full Stack Engineering
 location: Kolkata, India
 status: Building
-I build practical software that solves real business problems through engineering, automation and AI.
-> system.info
+~~~
+
+> I build practical software that solves real business problems through engineering, automation and AI.
+
+---
+
+## `> system.info`
+
+~~~text
 ┌─────────────────────────────────────────────────────────────────────┐
 │                                                                     │
 │  BACKEND       PHP · Laravel · Node.js · Python                    │
@@ -50,41 +64,64 @@ I build practical software that solves real business problems through engineerin
 │  AUTOMATION    APIs · WhatsApp · Business Workflows                │
 │                                                                     │
 └─────────────────────────────────────────────────────────────────────┘
-> tech.stack
+~~~
+
+---
+
+## `> tech.stack`
+
+### Languages
+
+~~~text
 PHP          ████████████████████
 JavaScript   ████████████████████
 TypeScript   ██████████████████░░
 Python       ████████████████░░░░
 HTML         ████████████████████
 CSS          ███████████████████░
+~~~
 
-Frameworks
+### Frameworks
+
+~~~text
 Laravel      ████████████████████
 React        ███████████████████░
 Next.js      █████████████████░░░
 Node.js      █████████████████░░░
+~~~
 
-Infrastructure
+### Infrastructure
+
+~~~text
 AWS          █████████████████░░░
 Git          ████████████████████
 CI/CD        ████████████████░░░░
+~~~
 
-> ai.engine
+---
+
+## `> ai.engine`
+
+~~~text
 ╭─────────────────────────────────────────────────────────────╮
 │                                                             │
 │  ┌─────────────┐       ┌──────────────┐                    │
 │  │   BUSINESS  │ ────► │ AI WORKFLOW  │                    │
 │  └─────────────┘       └──────┬───────┘                    │
-│                               │                            │
-│                    ┌──────────▼──────────┐                 │
-│                    │       LLM / RAG     │                 │
-│                    └──────────┬──────────┘                 │
-│                               │                            │
-│              ┌────────────────┼────────────────┐           │
-│              ▼                ▼                ▼           │
-│         AUTOMATION        INSIGHTS          ACTIONS        │
+│                               │                             │
+│                    ┌──────────▼──────────┐                  │
+│                    │       LLM / RAG     │                  │
+│                    └──────────┬──────────┘                  │
+│                               │                             │
+│              ┌────────────────┼────────────────┐            │
+│              ▼                ▼                ▼            │
+│         AUTOMATION        INSIGHTS          ACTIONS         │
 │                                                             │
-╰──────AI Focus
+╰─────────────────────────────────────────────────────────────╯
+~~~
+
+### AI Focus
+
 - OpenAI GPT API
 - Claude API
 - Large Language Models
@@ -94,10 +131,16 @@ CI/CD        ████████████████░░░░
 - Intelligent Classification
 - AI Recommendations
 - Business Process Automation
-───────────────────────────────────────────────────────╯
-> projects
-01 Expat Management System
+
+---
+
+## `> projects`
+
+### `01` Expat Management System
+
 Enterprise management platform designed for large-scale client records and operational workflows.
+
+~~~text
 FEATURES
 ├── Client Management
 ├── Bulk Upload & Export
@@ -109,9 +152,13 @@ FEATURES
 
 STACK
 PHP · MySQL · JavaScript · AWS · AI
+~~~
 
-02 WhatsApp Marketing Automation
+### `02` WhatsApp Marketing Automation
+
 WhatsApp-first automation platform for customer communication and marketing operations.
+
+~~~text
 FEATURES
 ├── Customer Segmentation
 ├── Bulk Campaigns
@@ -123,10 +170,13 @@ FEATURES
 
 STACK
 Laravel · PHP · JavaScript · MySQL · WhatsApp API
+~~~
 
-03 Government & Compliance Systems
+### `03` Government & Compliance Systems
+
 Systems designed to manage complex government and compliance workflows.
 
+~~~text
 MODULES
 ├── Registration Tracking
 ├── Immigration Services
@@ -139,9 +189,13 @@ MODULES
 
 STACK
 PHP · Laravel · MySQL · JavaScript
+~~~
 
-04 AI Business Automation
+### `04` AI Business Automation
+
 AI-powered systems designed to reduce repetitive manual operations.
+
+~~~text
 CAPABILITIES
 ├── AI Integrations
 ├── LLM Applications
@@ -154,8 +208,13 @@ CAPABILITIES
 
 STACK
 OpenAI · Claude · LLM · RAG · Laravel · React · Python
-> architecture
+~~~
 
+---
+
+## `> architecture`
+
+~~~text
                          ┌──────────────────┐
                          │      USERS       │
                          └────────┬─────────┘
@@ -182,9 +241,13 @@ OpenAI · Claude · LLM · RAG · Laravel · React · Python
                                            ┌────────────────┐
                                            │  AUTOMATION    │
                                            └────────────────┘
+~~~
 
-> current.focus
+---
 
+## `> current.focus`
+
+~~~bash
 $ ./rahul --current-focus
 
 [01] Building AI-powered SaaS products
@@ -195,8 +258,13 @@ $ ./rahul --current-focus
 [06] Cloud architecture & AWS
 [07] CI/CD & deployment automation
 [08] Product engineering
+~~~
 
-> development.philosophy
+---
+
+## `> development.philosophy`
+
+~~~text
 ┌──────────────────────────────────────────────────────────┐
 │                                                          │
 │  01  Understand the problem                              │
@@ -207,18 +275,45 @@ $ ./rahul --current-focus
 │  06  Improve continuously                                │
 │                                                          │
 └──────────────────────────────────────────────────────────┘
-> github.stats
+~~~
+
+---
+
+## `> github.stats`
+
 <div align="center">
-</div>
-> contribution.matrix
-<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RahulKirtoniya&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RahulKirtoniya&layout=compact&theme=github_dark&hide_border=true)
+
 </div>
 
-> activity
+---
+
+## `> contribution.matrix`
+
 <div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RahulKirtoniya&theme=github-dark-blue&hide_border=true)
+
 </div>
 
-> currently.learning
+---
+
+## `> activity`
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RahulKirtoniya&theme=github_dark&hide_border=true&area=true)
+
+</div>
+
+---
+
+## `> currently.learning`
+
+~~~text
 AI Agents
 LLM Architecture
 RAG Systems
@@ -227,9 +322,13 @@ System Architecture
 Cloud Engineering
 SaaS Architecture
 Product Engineering
+~~~
 
-> contact
+---
 
+## `> contact`
+
+~~~text
 ┌─────────────────────────────────────────────────────────────┐
 │                                                             │
 │  PORTFOLIO   →   rahul-kirtoniya.vercel.app                │
@@ -238,14 +337,21 @@ Product Engineering
 │                                                             │
 │  GITHUB     →   github.com/RahulKirtoniya                  │
 │                                                             │
-│  EMAIL      →   rahulkirtoniya12@gmail.com                   │
+│  EMAIL      →   rahulkirtoniya12@gmail.com                 │
 │                                                             │
 └─────────────────────────────────────────────────────────────┘
+~~~
+
+---
+
 <div align="center">
+
+~~~text
 $ echo "Thanks for visiting."
 
 BUILD  →  AUTOMATE  →  SCALE
-Made with code, curiosity and a lot of debugging.
-</div>
-```
+~~~
 
+### `Made with code, curiosity and a lot of debugging.`
+
+</div>
