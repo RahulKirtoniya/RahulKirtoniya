@@ -1,4 +1,3 @@
-```md
 <div align="center">
 
 # `Rahul Kirtoniya`
@@ -359,4 +358,3 @@ BUILD  →  AUTOMATE  →  SCALE
 ### `Made with code, curiosity and a lot of debugging.`
 
 </div>
-```
