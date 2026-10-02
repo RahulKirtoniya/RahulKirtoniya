@@ -1,4 +1,3 @@
-```md
 <div align="center">
 
 # `Rahul Kirtoniya`
@@ -565,4 +564,4 @@ Technology Products
 **Rahul Kirtoniya · Full Stack Engineer · Technical Lead**
 
 </div>
-```
+
